@@ -1,3 +1,3 @@
 # FWE458_Final
 
-If you do not see the source code file yet it is because I still need to find all of the code that I used for this project as it is scattered somewhat haphazardly.
+I would reference the outputs document for the results of any code as the compiled code document will not work without mounting and references many versions of the dataset
